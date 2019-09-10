@@ -1,0 +1,10 @@
+Package: testp
+Type: Package
+Title: sum of two vectors
+Version: 0.1.0
+Author: samia butt
+Maintainer: The package maintainer <sambu064@student.liu.se>
+Description: we are going to add two numbers here in this package.
+License: Apache License
+Encoding: UTF-8
+LazyData: true
