@@ -8,3 +8,6 @@ Description: we are going to add two numbers here in this package.
 License: Apache License
 Encoding: UTF-8
 LazyData: true
+Suggests: 
+    testthat
+RoxygenNote: 6.1.1
